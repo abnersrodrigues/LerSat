@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/02/26 13:35:54.000.802,=C:\Users\MAC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/19 11:04:04.000.532,=C:\Users\MAC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/19 11:04:51.000.347,=C:\Users\MAC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/22 14:19:33.000.242,=C:\Users\MAC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/11 22:02:25.000.319,=dbrtl.dcp</Transaction>
+    <Transaction>2022/06/11 22:02:25.000.500,=C:\Users\MAC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/11 22:02:25.000.475,=FireDAC.dcp</Transaction>
+    <Transaction>2022/06/11 22:02:25.000.434,=FireDACCommon.dcp</Transaction>
+    <Transaction>2022/06/11 22:02:25.000.399,=FireDACCommonDriver.dcp</Transaction>
+    <Transaction>2022/06/11 22:02:25.000.357,=emsserverresource.dcp</Transaction>
+    <Transaction>2022/06/11 22:02:25.000.292,=emsserverapi.dcp</Transaction>
+    <Transaction>2022/06/24 19:30:44.000.609,=C:\Users\MAC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/29 14:58:16.000.985,=C:\Users\MAC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/29 17:19:42.000.865,=C:\Users\MAC\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2022/06/29 17:19:43.000.525,=C:\Users\MAC\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2022/06/29 17:19:43.000.276,=C:\Users\MAC\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2022/07/01 16:26:20.000.396,=C:\Users\MAC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/02 12:11:58.000.535,=C:\Users\MAC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/02 12:40:16.000.872,=C:\Users\MAC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/06 22:10:41.123,=C:\Users\MAC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/06 22:12:19.364,S:\Projetos\LerSat\src\ufrmPrincipal.pas=C:\Users\MAC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/07/06 22:12:19.364,S:\Projetos\LerSat\src\ufrmPrincipal.fmx=C:\Users\MAC\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2022/07/06 22:12:28.540,S:\Projetos\LerSat\LerSat.dproj=C:\Users\MAC\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/07/06 22:45:57.009,=S:\Projetos\LerSat\src\uFancyDialog.pas</Transaction>
+    <Transaction>2022/07/07 08:25:44.840,=S:\Projetos\LerSat\src\uLoading.pas</Transaction>
+  </Transactions>
+</BorlandProject>

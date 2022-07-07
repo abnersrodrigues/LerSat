@@ -1,0 +1,14 @@
+program LerSat;
+
+uses
+  System.StartUpCopy,
+  FMX.Forms,
+  ufrmPrincipal in 'src\ufrmPrincipal.pas' {frmPrincipal};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.CreateForm(TfrmPrincipal, frmPrincipal);
+  Application.Run;
+end.
