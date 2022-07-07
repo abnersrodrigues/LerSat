@@ -1,6 +1,6 @@
 # LerSat
 
-  Aplicativo para leitura simples de xml do sat na pasta.
+  Aplicativo para leitura simples de xml do sat na pasta selecionada.
   
   <img src="/img/demo.png" alt="My cool logo"/>
 
